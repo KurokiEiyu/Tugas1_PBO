@@ -1,0 +1,14 @@
+JAVA versi terbaru
+
+JDK 19 (Java Development Kit 19),
+
+Tujuh fitur ditargetkan untuk dirilis, termasuk paralelisme terstruktur, pola perekaman, pratinjau fungsi asing dan API penyimpanan, dan dukungan untuk arsitektur set instruksi (ISA) Linux/RISC-V sumber terbuka.
+
+Executables, (Dalam bin/ subdirektori) Implementasi Java Runtime Environment (JRE). 
+JRE mencakup Java Virtual Machine (JVM™), perpustakaan kelas, dan file lain yang mendukung eksekusi program yang ditulis dalam bahasa pemrograman Java.
+Direktori ini juga mencakup alat dan utilitas yang akan membantu Anda mengembangkan, menjalankan, men-debug, dan mendokumentasikan program yang ditulis dalam bahasa pemrograman Java.
+
+Additional Libraries, (Dalam lib/ subdirektori) Pustaka kelas tambahan dan file dukungan yang diperlukan oleh JDK.
+File-file ini tidak dimaksudkan untuk penggunaan eksternal.
+
+C header Files, (Dalam sertakan/ subdirektori) File header bahasa C yang mendukung pemrograman kode asli dengan Antarmuka Asli Java dan Antarmuka Debugger Mesin Virtual Java (JVM).
